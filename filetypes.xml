@@ -1,0 +1,26 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="testo" type="PLAIN_TEXT" />
+      <mapping pattern="gdfhghfd" type="PLAIN_TEXT" />
+      <mapping pattern="something2" type="PLAIN_TEXT" />
+      <mapping pattern="fsdklhfjkldsf" type="PLAIN_TEXT" />
+      <mapping pattern="terms" type="PLAIN_TEXT" />
+      <mapping pattern="video gaem" type="PLAIN_TEXT" />
+      <mapping pattern="development.env" type="PLAIN_TEXT" />
+      <mapping pattern="fuck" type="PLAIN_TEXT" />
+      <mapping pattern="animals" type="PLAIN_TEXT" />
+      <mapping pattern="errors" type="PLAIN_TEXT" />
+      <mapping pattern="postnumre" type="PLAIN_TEXT" />
+      <mapping pattern="profile_ids" type="PLAIN_TEXT" />
+      <mapping pattern="restore_pad" type="PLAIN_TEXT" />
+      <mapping pattern="fruit" type="PLAIN_TEXT" />
+      <mapping pattern="unsupportedError.jsx" type="PLAIN_TEXT" />
+      <mapping pattern="warnings" type="PLAIN_TEXT" />
+      <mapping pattern="something" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping pattern="agillicEvent" type="TypeScript" />
+    </extensionMap>
+  </component>
+</application>
